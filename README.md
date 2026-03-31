@@ -1,7 +1,11 @@
 # oss-audit-24BSA10359
+
 Student Information
+
 Name: Manasvi Shrivastava 
+
 Reg. No. : 24BSA10359
+
 Course: Open Source Software Project: The Open Source Audit 
 
 
@@ -63,20 +67,4 @@ Operating System: A Linux-based distribution (e.g., Ubuntu, Fedora).
 Shell: Bash.
 
 Utilities: coreutils (for ls, date, whoami, etc.), grep, awk, and vlc (for Script 2 checks).
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
