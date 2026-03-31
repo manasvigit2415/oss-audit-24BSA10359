@@ -10,8 +10,11 @@ Course: Open Source Software Project: The Open Source Audit
 
 
 Chosen Software
-Software: VLC Media Player 
+
+Software: VLC Media Player
+
 Category: Multimedia 
+
 License: LGPL/GPL
 
 Script Descriptions
