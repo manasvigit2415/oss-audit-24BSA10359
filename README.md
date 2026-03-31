@@ -46,9 +46,13 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 2. Run the Scripts:
 
 Script 1: ./script1.sh
+
 Script 2: ./script2.sh
+
 Script 3: ./script3.sh
+
 Script 4: ./script4.sh /var/log/syslog (Note: requires a valid log file path as an argument) 
+
 Script 5: ./script5.sh
 
 
