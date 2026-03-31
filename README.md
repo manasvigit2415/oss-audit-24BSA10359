@@ -59,7 +59,9 @@ Script 5: ./script5.sh
 Dependencies
 
 Operating System: A Linux-based distribution (e.g., Ubuntu, Fedora).
+
 Shell: Bash.
+
 Utilities: coreutils (for ls, date, whoami, etc.), grep, awk, and vlc (for Script 2 checks).
 
 
